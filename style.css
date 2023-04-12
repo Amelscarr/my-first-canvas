@@ -1,0 +1,47 @@
+.bodyBackgorund {
+    background-image: url("bg.png");
+    background-position: center;
+    background-repeat: repeat-x; 
+}
+
+body{
+  cursor: pointer;
+}
+
+h1 {
+  background-color: #000;
+  color: #fff; 
+  font-size: 40px;
+  margin: 20px;
+  padding: 10px 20px;
+  width: fit-content;
+  border-radius: 5px;
+}
+
+#myCanvas {
+  border-width:10px;
+  background-color: white; 
+  border-style:ridge;
+}
+
+#spans {
+  width: 800px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #61dd65;
+  border: none;
+  color: white;
+  padding: 10px 42px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+input {
+  margin-right: 20px;
+}
+  
